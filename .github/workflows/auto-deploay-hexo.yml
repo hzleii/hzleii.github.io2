@@ -84,8 +84,8 @@ jobs:
       - name: Generate files
         # 编译 markdown 文件
         run: |
-          hexo clean
-          hexo generate
+          npx hexo clean
+          npx hexo generate
           # gulp
       
       #  修复文章最后更新时间
