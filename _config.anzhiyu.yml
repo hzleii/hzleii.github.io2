@@ -102,7 +102,7 @@ mathjax:
 
 # KaTeX
 katex:
-  enable: false
+  enable: true
   per_page: false
   hide_scrollbar: true
 
@@ -749,7 +749,7 @@ aside:
       # - Hexo
       # - 前端
   card_archives:
-    enable: true
+    enable: false
     type: monthly # yearly or monthly
     format: MMMM YYYY # eg: YYYY年MM月
     order: -1 # Sort of order. 1, asc for ascending; -1, desc for descending

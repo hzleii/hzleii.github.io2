@@ -162,5 +162,11 @@ envelope_comment:
     top_img: false
     type: envelope
 
+markdown:
+  plugins:
+    - "@renbaoshuo/markdown-it-katex"
+
+
+
 
 
