@@ -115,7 +115,7 @@ favicon: /img/favicon.ico
 # Avatar (头像)
 avatar:
   img: https://cdn.jsdelivr.net/gh/hzleii/imgs/head400x400.png
-  effect: false
+  effect: true
 
 # Disable all banner image
 disable_top_img: false

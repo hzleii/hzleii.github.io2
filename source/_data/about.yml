@@ -1,6 +1,6 @@
 - class_name: 关于页
   subtitle: 生活明朗，万物可爱✨
-  avatarImg: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.0/img/avatar.webp
+  avatarImg: https://cdn.jsdelivr.net/gh/hzleii/imgs/head400x400.png
   name: 侯志磊
   description: 是一名 后端工程师、独立开发者、博主
   aboutsiteTips:
